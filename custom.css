@@ -162,8 +162,8 @@ body.no-scroll{overflow:hidden}
     background: linear-gradient(
       180deg,
       rgba(10,16,32,.55) 0%,
-      rgba(10,16,32,.05) 22%,
-      rgba(10,16,32,.35) 40%,
+      rgba(10,16,32,.25) 22%,
+      rgba(10,16,32,.55) 40%,
       rgba(10,16,32,.92) 62%,
       #0a1020 80%
     );
